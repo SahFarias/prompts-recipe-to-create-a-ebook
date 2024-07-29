@@ -30,8 +30,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Dall-E 3](https://openai.com/index/dall-e-3/)
+- [Canva](https://www.Canva.com/)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,28 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Crie um título para um ebook sobre Python, linguagem de programação, cujo foco será o assunto 'decoradores' que são funções que modificam outras funções . O título deve ser curto e chamativo.
+Pode utilizar uma temática mais nerd/pop                                                        |
+| conteúdo | Faça um texto para Ebook, com foco em linguagem Python
+Listando os principais erros e as principais dúvidas ao se trabalhar com Decoradores.
+
+{Regras}
+Utilize uma linguagem simples e jovem
+Mantenha o texto 'enxuto'
+Utilize exemplos de códigos em contextos reais
+Crie um texto sugestivo para cada tópico
 
 
-Midjourney：
+Dall-E 3：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Duas cobras com chapéus,  uma azul e outra amarela semelhante o logo do python em fundo cyberpunk |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Dall-E 3
 
 ## 📚 Materiais
 
